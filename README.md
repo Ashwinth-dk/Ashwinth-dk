@@ -50,13 +50,17 @@ I believe in continuous learning and love turning ideas into reliable software s
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinth-dk&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashwinth-dk" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact" />
+</p>
+
 
 ---
 
@@ -130,3 +134,4 @@ I believe in continuous learning and love turning ideas into reliable software s
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
