@@ -47,12 +47,16 @@ I believe in continuous learning and love turning ideas into reliable software s
 
 ---
 
-## 📊 GitHub Activity Highlights
+## 📊 GitHub Stats  
 
-- Consistent contributor to personal and academic projects  
-- Hands-on experience building full-stack and mobile applications  
-- Actively practicing Data Structures & Algorithms  
-- Focused on writing clean, maintainable, and scalable code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinth-dk&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact&theme=tokyonight"/>
+</p>
 
 
 ---
@@ -127,4 +131,5 @@ I believe in continuous learning and love turning ideas into reliable software s
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
 
