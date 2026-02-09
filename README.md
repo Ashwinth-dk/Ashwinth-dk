@@ -1,84 +1,135 @@
-<h1 align="center">Hi 👋, I'm Ashwinth DK</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
+# Hi 👋, I'm Ashwinth DK  
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashwinth-dk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ashwinth--dk-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://www.leetcode.com/ashwinth_1805" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ashwinth__1805-orange?style=flat&logo=leetcode" />
-  </a>
-  <a href="mailto:ashwinth1805dk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=flat&logo=gmail" />
-  </a>
-</p>
+### 💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
+📍 India  
 
 ---
 
-### 👨‍💻 About Me
-- 💡 Full Stack Developer with strong problem-solving skills  
-- 🔭 Currently working on **scalable web & mobile applications**
-- 🌱 Learning **system design, cloud-native architectures & DevOps**
-- 🧠 Competitive programmer on **LeetCode & TopCoder**
-- ⚡ Fun fact: I enjoy blending **code + creativity** (Blender & UI/UX)
+## 👨‍💻 About Me  
+
+I’m a passionate **Full Stack Developer** who enjoys building scalable, real-world applications and solving complex problems through clean and efficient code. I have hands-on experience across **frontend, backend, mobile development, and cloud technologies**.
+
+I strongly believe in continuous learning and love exploring new tools, frameworks, and system designs that help build better software.
 
 ---
 
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinth-dk&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+## 🔭 What I’m Currently Doing  
+
+- Working on **full-stack web applications** using modern frameworks  
+- Practicing **Data Structures & Algorithms** regularly  
+- Improving knowledge in **cloud deployment and DevOps workflows**  
+- Building projects that focus on **performance, scalability, and usability**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinth-dk&theme=radical" height="165"/>
-</p>
+## 🧠 Technical Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact&theme=radical" />
-</p>
+### 🖥 Programming Languages  
+- Java  
+- Python  
+- JavaScript  
+- C  
 
----
+### 🌐 Frontend Development  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- React.js  
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/ashwinth-dk" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/ashwinth_1805" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.topcoder.com/members/638109" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-</a>
-</p>
+### ⚙ Backend Development  
+- Node.js  
+- Express.js  
+- RESTful APIs  
 
----
+### 🗄 Databases  
+- MongoDB  
+- MySQL  
+- Oracle  
 
-### 🛠 Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,aws,docker,flutter,linux,git,html,css,tailwind" />
-</p>
+### 📱 Mobile Development  
+- Flutter  
+- React Native  
 
----
+### ☁ Cloud & DevOps  
+- AWS  
+- Docker  
 
-### 🚀 Featured Projects
-- 🔹 **Full Stack Web App** – MERN stack with authentication & role-based access  
-- 🔹 **Mobile App** – Flutter app with REST API integration  
-- 🔹 **Cloud Deployment** – Dockerized apps deployed on AWS  
-
-_(Pin your best repos above ⬆️ for maximum impact)_
+### 🧰 Tools & Platforms  
+- Git & GitHub  
+- Linux  
+- Arduino  
+- Blender  
+- MATLAB  
 
 ---
 
-### ✨ Quote I Live By
-> *“First, solve the problem. Then, write the code.”* – John Johnson
+## 🚀 Projects & Experience  
+
+- **Full Stack Web Applications**  
+  Designed and developed end-to-end applications with authentication, authorization, and database integration.
+
+- **Mobile Applications**  
+  Built cross-platform mobile apps using Flutter and React Native with backend API integration.
+
+- **Cloud Deployment**  
+  Containerized applications using Docker and deployed them on cloud platforms for scalability.
+
+- **Problem Solving**  
+  Solved numerous algorithmic problems focusing on time and space optimization.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinth-dk&label=Profile%20Views&color=brightgreen" />
-</p>
+## 🏆 Competitive Programming  
+
+- Active on **LeetCode** solving DSA and algorithmic challenges  
+- Participated in **TopCoder** contests  
+- Strong understanding of:
+  - Arrays & Strings  
+  - Linked Lists  
+  - Stacks & Queues  
+  - Trees & Graphs  
+  - Dynamic Programming  
+
+---
+
+## 🌱 Currently Learning  
+
+- System Design fundamentals  
+- Advanced backend architecture  
+- Cloud-native application development  
+- Performance optimization techniques  
+
+---
+
+## 🤝 Connect With Me  
+
+- 🔗 LinkedIn:  
+  www.linkedin.com/in/ashwinth-dk-b42165331  
+
+- 🧩 LeetCode:  
+  https://leetcode.com/u/Ashwinth_1805/  
+
+- 📧 Email:  
+  ashwinth1805dk@gmail.com  
+
+---
+
+## 💡 Career Goals  
+
+- Become a strong **Full Stack Engineer**  
+- Work on impactful products used by real users  
+- Continuously improve problem-solving and system design skills  
+- Contribute to open-source projects  
+
+---
+
+## ✨ Personal Traits  
+
+- Self-motivated and disciplined  
+- Quick learner  
+- Strong debugging mindset  
+- Team player with good communication skills  
+
+---
+
+> *“Code is not just about solving problems — it’s about creating solutions that last.”*
