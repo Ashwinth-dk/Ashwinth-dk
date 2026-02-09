@@ -47,29 +47,12 @@ I believe in continuous learning and love turning ideas into reliable software s
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true&theme=tokyonight"
-    height="170"
-    onerror="this.style.display='none'"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinth-dk&theme=tokyonight"
-    height="170"
-    onerror="this.style.display='none'"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact&theme=tokyonight"
-    onerror="this.style.display='none'"
-  />
-</p>
-
-
+- Active contributor since 2025  
+- Regular commits to full-stack and mobile projects  
+- Focused on clean, scalable code  
+- Consistent DSA practice on LeetCode
 
 ---
 
@@ -143,6 +126,7 @@ I believe in continuous learning and love turning ideas into reliable software s
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
 
 
 
