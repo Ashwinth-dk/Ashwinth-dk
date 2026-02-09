@@ -47,19 +47,12 @@ I believe in continuous learning and love turning ideas into reliable software s
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashwinth-dk" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact" />
-</p>
+- Consistent contributor to personal and academic projects  
+- Hands-on experience building full-stack and mobile applications  
+- Actively practicing Data Structures & Algorithms  
+- Focused on writing clean, maintainable, and scalable code
 
 
 ---
