@@ -7,59 +7,56 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Full Stack Developer** who enjoys building scalable, real-world applications and solving complex problems through clean and efficient code. I have hands-on experience across **frontend, backend, mobile development, and cloud technologies**.
+I’m a passionate **Full Stack Developer** who enjoys building scalable, real-world applications and solving complex problems through clean and efficient code. I have hands-on experience across **frontend, backend, mobile development, databases, and cloud technologies**.
 
-I strongly believe in continuous learning and love exploring new tools, frameworks, and system designs that help build better software.
+I believe in continuous learning and love turning ideas into reliable software solutions.
 
 ---
 
 ## 🔭 What I’m Currently Doing  
 
-- Working on **full-stack web applications** using modern frameworks  
-- Practicing **Data Structures & Algorithms** regularly  
-- Improving knowledge in **cloud deployment and DevOps workflows**  
-- Building projects that focus on **performance, scalability, and usability**
+- Building **full-stack web applications**
+- Practicing **Data Structures & Algorithms**
+- Learning **system design & backend scalability**
+- Exploring **cloud & DevOps workflows**
 
 ---
 
-## 🧠 Technical Skills  
+## 🧠 Tech Stack  
 
 ### 🖥 Programming Languages  
-- Java  
-- Python  
-- JavaScript  
-- C  
+![Languages](https://skillicons.dev/icons?i=java,python,c,javascript)
 
 ### 🌐 Frontend Development  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- React.js  
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react)
 
 ### ⚙ Backend Development  
-- Node.js  
-- Express.js  
-- RESTful APIs  
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
 ### 🗄 Databases  
-- MongoDB  
-- MySQL  
-- Oracle  
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,oracle)
 
 ### 📱 Mobile Development  
-- Flutter  
-- React Native  
+![Mobile](https://skillicons.dev/icons?i=flutter,react)
 
 ### ☁ Cloud & DevOps  
-- AWS  
-- Docker  
+![Cloud](https://skillicons.dev/icons?i=aws,docker)
 
 ### 🧰 Tools & Platforms  
-- Git & GitHub  
-- Linux  
-- Arduino  
-- Blender  
-- MATLAB  
+![Tools](https://skillicons.dev/icons?i=git,github,linux,arduino,matlab,blender)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinth-dk&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinth-dk&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dk&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -69,21 +66,21 @@ I strongly believe in continuous learning and love exploring new tools, framewor
   Designed and developed end-to-end applications with authentication, authorization, and database integration.
 
 - **Mobile Applications**  
-  Built cross-platform mobile apps using Flutter and React Native with backend API integration.
+  Built cross-platform apps using Flutter and React Native with backend API integration.
 
 - **Cloud Deployment**  
-  Containerized applications using Docker and deployed them on cloud platforms for scalability.
+  Dockerized applications and deployed them on cloud platforms.
 
 - **Problem Solving**  
-  Solved numerous algorithmic problems focusing on time and space optimization.
+  Strong foundation in optimizing solutions for time and space complexity.
 
 ---
 
 ## 🏆 Competitive Programming  
 
-- Active on **LeetCode** solving DSA and algorithmic challenges  
-- Participated in **TopCoder** contests  
-- Strong understanding of:
+- Active on **LeetCode**
+- Participated in **TopCoder** contests
+- Strong knowledge of:
   - Arrays & Strings  
   - Linked Lists  
   - Stacks & Queues  
@@ -94,42 +91,42 @@ I strongly believe in continuous learning and love exploring new tools, framewor
 
 ## 🌱 Currently Learning  
 
-- System Design fundamentals  
-- Advanced backend architecture  
-- Cloud-native application development  
-- Performance optimization techniques  
+- System Design  
+- Advanced Backend Architecture  
+- Cloud-Native Applications  
+- Performance Optimization  
 
 ---
 
 ## 🤝 Connect With Me  
 
-- 🔗 LinkedIn:  
+- 🔗 LinkedIn  
   www.linkedin.com/in/ashwinth-dk-b42165331  
 
-- 🧩 LeetCode:  
+- 🧩 LeetCode  
   https://leetcode.com/u/Ashwinth_1805/  
 
-- 📧 Email:  
+- 📧 Email  
   ashwinth1805dk@gmail.com  
 
 ---
 
-## 💡 Career Goals  
+## 🎯 Career Goals  
 
-- Become a strong **Full Stack Engineer**  
-- Work on impactful products used by real users  
-- Continuously improve problem-solving and system design skills  
+- Become a strong **Full Stack Engineer**
+- Work on impactful, scalable products
+- Continuously improve DSA & system design skills
 - Contribute to open-source projects  
 
 ---
 
 ## ✨ Personal Traits  
 
-- Self-motivated and disciplined  
+- Self-motivated  
 - Quick learner  
 - Strong debugging mindset  
-- Team player with good communication skills  
+- Team-oriented developer  
 
 ---
 
-> *“Code is not just about solving problems — it’s about creating solutions that last.”*
+> *“First, solve the problem. Then, write the code.”*
