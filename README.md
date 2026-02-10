@@ -100,9 +100,6 @@ I believe in continuous learning and love turning ideas into reliable software s
 - 🔗 LinkedIn  
   www.linkedin.com/in/ashwinth-dk-b42165331  
 
-- 🧩 LeetCode  
-  https://leetcode.com/u/Ashwinth_1805/  
-
 - 📧 Email  
   ashwinth1805dk@gmail.com  
 
@@ -127,6 +124,7 @@ I believe in continuous learning and love turning ideas into reliable software s
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
 
 
 
