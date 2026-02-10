@@ -47,14 +47,15 @@ I believe in continuous learning and love turning ideas into reliable software s
 
 ---
 
-## 📊 GitHub Activity
+---
+## My Stats
 
-- Active contributor since 2025  
-- Regular commits to full-stack and mobile projects  
-- Focused on clean, scalable code  
-- Consistent DSA practice on LeetCode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ashwinth_1805?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/Ashwinth_1805/)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinth-dk&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true)](https://github.com/Ashwinth-dk)
 
 ---
+
 
 ## 🚀 Projects & Experience  
 
@@ -126,6 +127,7 @@ I believe in continuous learning and love turning ideas into reliable software s
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
 
 
 
